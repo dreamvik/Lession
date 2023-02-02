@@ -1,0 +1,15 @@
+D:\workgit\3730\lesson001\task1\bin\Debug\net6.0\task1.exe
+D:\workgit\3730\lesson001\task1\bin\Debug\net6.0\task1.deps.json
+D:\workgit\3730\lesson001\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\workgit\3730\lesson001\task1\bin\Debug\net6.0\task1.dll
+D:\workgit\3730\lesson001\task1\bin\Debug\net6.0\task1.pdb
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.dll
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\refint\task1.dll
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.pdb
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\workgit\3730\lesson001\task1\obj\Debug\net6.0\ref\task1.dll
